@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="711df7b4-3a2e-4454-8474-3b00fbd195d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Editable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProConItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProConItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProConList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProConList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +77,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587131131529</updated>
-      <workItem from="1587131133272" duration="68071000" />
+      <workItem from="1587131133272" duration="68534000" />
     </task>
+    <task id="LOCAL-00001" summary="works">
+      <created>1587418035945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587418035945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="works" />
+    <option name="LAST_COMMIT_MESSAGE" value="works" />
   </component>
   <component name="WindowStateProjectService">
     <state x="601" y="350" key="#JavaScript" timestamp="1587136197739">
@@ -108,6 +109,10 @@
       <screen x="0" y="0" width="3440" height="1360" />
     </state>
     <state x="689" y="520" key="#com.intellij.fileTypes.FileTypeChooser/3440.390.1680.1050/0.0.3440.1360@0.0.3440.1360" timestamp="1587381530201" />
+    <state x="389" y="235" key="CommitChangelistDialog2" timestamp="1587418035621">
+      <screen x="0" y="0" width="3440" height="1360" />
+    </state>
+    <state x="389" y="235" key="CommitChangelistDialog2/3440.390.1680.1050/0.0.3440.1360@0.0.3440.1360" timestamp="1587418035621" />
     <state width="1419" height="174" key="GridCell.Tab.0.bottom" timestamp="1587305857405">
       <screen x="0" y="0" width="1440" height="820" />
     </state>
@@ -132,6 +137,10 @@
       <screen x="0" y="0" width="3440" height="1360" />
     </state>
     <state x="510" y="359" key="SettingsEditor/3440.390.1680.1050/0.0.3440.1360@0.0.3440.1360" timestamp="1587156318228" />
+    <state x="415" y="456" key="Vcs.Push.Dialog.v2" timestamp="1587418089057">
+      <screen x="0" y="0" width="3440" height="1360" />
+    </state>
+    <state x="415" y="456" key="Vcs.Push.Dialog.v2/3440.390.1680.1050/0.0.3440.1360@0.0.3440.1360" timestamp="1587418089057" />
     <state x="1085" y="78" width="1068" height="1360" key="dock-window-1" timestamp="1587227620303">
       <screen x="0" y="0" width="3440" height="1360" />
     </state>
