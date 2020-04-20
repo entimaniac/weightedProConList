@@ -1,0 +1,43 @@
+.pro-con-item {
+  display: block;
+  margin: 5px 0;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+
+  list-style-type: none;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+
+.pro {
+  background: #005e00;
+}
+
+.con {
+  background: #950000;
+}
+
+.score {
+  float: right;
+  text-align: right;
+}
+.remove-button {
+  float: right;
+}
+
+.text-input {
+  width: 100%;
+}
+
+.score-input {
+  width: 100%;
+  text-align: right;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 8fr 1fr 1fr;
+}
