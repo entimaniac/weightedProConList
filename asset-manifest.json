@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weightedProConList/static/css/main.828c3d76.chunk.css",
+    "main.css": "/weightedProConList/static/css/main.b212c539.chunk.css",
     "main.js": "/weightedProConList/static/js/main.bcea48e5.chunk.js",
     "main.js.map": "/weightedProConList/static/js/main.bcea48e5.chunk.js.map",
     "runtime-main.js": "/weightedProConList/static/js/runtime-main.91d88aba.js",
@@ -8,15 +8,15 @@
     "static/js/2.bf82d165.chunk.js": "/weightedProConList/static/js/2.bf82d165.chunk.js",
     "static/js/2.bf82d165.chunk.js.map": "/weightedProConList/static/js/2.bf82d165.chunk.js.map",
     "index.html": "/weightedProConList/index.html",
-    "precache-manifest.452993f5415107836b9c0428a5d47486.js": "/weightedProConList/precache-manifest.452993f5415107836b9c0428a5d47486.js",
+    "precache-manifest.0ffe8a3984e9c4fe07d00dd94f8d45fe.js": "/weightedProConList/precache-manifest.0ffe8a3984e9c4fe07d00dd94f8d45fe.js",
     "service-worker.js": "/weightedProConList/service-worker.js",
-    "static/css/main.828c3d76.chunk.css.map": "/weightedProConList/static/css/main.828c3d76.chunk.css.map",
+    "static/css/main.b212c539.chunk.css.map": "/weightedProConList/static/css/main.b212c539.chunk.css.map",
     "static/js/2.bf82d165.chunk.js.LICENSE.txt": "/weightedProConList/static/js/2.bf82d165.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91d88aba.js",
     "static/js/2.bf82d165.chunk.js",
-    "static/css/main.828c3d76.chunk.css",
+    "static/css/main.b212c539.chunk.css",
     "static/js/main.bcea48e5.chunk.js"
   ]
 }
